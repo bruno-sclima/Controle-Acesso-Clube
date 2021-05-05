@@ -2,7 +2,7 @@ package business;
 
 import java.time.LocalDate;
 
-public abstract class Acesso {
+public class Acesso {
 
     private String nome;
     private long cpf;
